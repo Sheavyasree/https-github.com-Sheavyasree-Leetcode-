@@ -10,5 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0002-add-two-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
