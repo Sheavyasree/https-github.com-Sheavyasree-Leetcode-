@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1812-determine-color-of-a-chessboard-square) |
 <!---LeetCode Topics End-->
