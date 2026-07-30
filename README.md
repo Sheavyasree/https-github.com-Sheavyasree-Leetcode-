@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0344-reverse-string) |
 ## Stack
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
