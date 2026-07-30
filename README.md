@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,5 +83,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0392-is-subsequence) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1812-determine-color-of-a-chessboard-square) |
 <!---LeetCode Topics End-->
