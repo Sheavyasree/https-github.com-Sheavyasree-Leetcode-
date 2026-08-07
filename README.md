@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0383-ransom-note) |
 | [3731-find-missing-elements](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3731-find-missing-elements) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0392-is-subsequence) |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
