@@ -154,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0191-number-of-1-bits) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
