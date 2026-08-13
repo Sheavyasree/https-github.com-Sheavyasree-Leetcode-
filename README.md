@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0383-ransom-note) |
