@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1051-height-checker) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
