@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0367-valid-perfect-square) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -190,11 +192,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
