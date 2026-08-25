@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
