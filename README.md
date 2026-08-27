@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Heap (Priority Queue)
 |  |
