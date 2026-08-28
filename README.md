@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1812-determine-color-of-a-chessboard-square) |
