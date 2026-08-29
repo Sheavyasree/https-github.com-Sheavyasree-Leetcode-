@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1051-height-checker) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0645-set-mismatch) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3536-maximum-product-of-two-digits) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Heap (Priority Queue)
