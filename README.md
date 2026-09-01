@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3731-find-missing-elements) |
 ## Math
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3536-maximum-product-of-two-digits) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0645-set-mismatch) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
