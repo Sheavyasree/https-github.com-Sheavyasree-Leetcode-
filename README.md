@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0342-power-of-four) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0287-find-the-duplicate-number) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0344-reverse-string) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0067-add-binary) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Pigeonhole Principle
 |  |
