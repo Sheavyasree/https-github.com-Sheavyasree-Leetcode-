@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1732-find-the-highest-altitude](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
 |  |
 | ------- |
