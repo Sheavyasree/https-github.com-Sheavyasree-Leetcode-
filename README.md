@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -290,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
