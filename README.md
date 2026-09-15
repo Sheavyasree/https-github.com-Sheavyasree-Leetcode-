@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1109-corporate-flight-bookings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/3931-check-adjacent-digit-differences) |
