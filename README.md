@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
@@ -309,5 +310,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
