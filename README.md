@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0896-monotonic-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0989-add-to-array-form-of-integer) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1109-corporate-flight-bookings) |
