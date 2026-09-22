@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0046-permutations) |
+| [0074-search-a-2d-matrix](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0268-missing-number) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
