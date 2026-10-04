@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -359,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
