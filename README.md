@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0217-contains-duplicate) |
