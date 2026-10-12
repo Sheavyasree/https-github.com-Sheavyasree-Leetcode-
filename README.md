@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0620-not-boring-movies) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1527-patients-with-a-condition](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1757-recyclable-and-low-fat-products) |
 ## Sliding Window
