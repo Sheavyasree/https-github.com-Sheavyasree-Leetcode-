@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0678-valid-parenthesis-string) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0112-path-sum) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0112-path-sum) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
