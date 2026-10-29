@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0219-contains-duplicate-ii) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0200-number-of-islands) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Greedy
@@ -429,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sheavyasree/https-github.com-Sheavyasree-Leetcode-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
